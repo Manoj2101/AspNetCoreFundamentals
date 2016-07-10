@@ -1,5 +1,5 @@
---temp-output:C:\Users\Ash\Desktop\pluralsight\scott allen\ASP.NET Core\OdeToFood\obj\Debug\netcoreapp1.0\
---out:C:\Users\Ash\Desktop\pluralsight\scott allen\ASP.NET Core\OdeToFood\bin\Debug\netcoreapp1.0\OdeToFood.dll
+--temp-output:C:\Users\Ash\Desktop\pluralsight\scott allen\AspNetCoreFundamentals\OdeToFood\obj\Debug\netcoreapp1.0\
+--out:C:\Users\Ash\Desktop\pluralsight\scott allen\AspNetCoreFundamentals\OdeToFood\bin\Debug\netcoreapp1.0\OdeToFood.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -167,8 +167,11 @@
 --reference:C:\Users\Ash\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\Ash\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\Ash\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"C:\Users\Ash\Desktop\pluralsight\scott allen\ASP.NET Core\OdeToFood\obj\Debug\netcoreapp1.0\OdeToFooddotnet-compile.deps.json",OdeToFood.deps.json
-C:\Users\Ash\Desktop\pluralsight\scott allen\ASP.NET Core\OdeToFood\Program.cs
-C:\Users\Ash\Desktop\pluralsight\scott allen\ASP.NET Core\OdeToFood\Startup.cs
-C:\Users\Ash\Desktop\pluralsight\scott allen\ASP.NET Core\OdeToFood\Controllers\HomeController.cs
-C:\Users\Ash\Desktop\pluralsight\scott allen\ASP.NET Core\OdeToFood\Services\Greeter.cs
+--resource:"C:\Users\Ash\Desktop\pluralsight\scott allen\AspNetCoreFundamentals\OdeToFood\obj\Debug\netcoreapp1.0\OdeToFooddotnet-compile.deps.json",OdeToFood.deps.json
+C:\Users\Ash\Desktop\pluralsight\scott allen\AspNetCoreFundamentals\OdeToFood\Program.cs
+C:\Users\Ash\Desktop\pluralsight\scott allen\AspNetCoreFundamentals\OdeToFood\Startup.cs
+C:\Users\Ash\Desktop\pluralsight\scott allen\AspNetCoreFundamentals\OdeToFood\Controllers\AboutController.cs
+C:\Users\Ash\Desktop\pluralsight\scott allen\AspNetCoreFundamentals\OdeToFood\Controllers\HomeController.cs
+C:\Users\Ash\Desktop\pluralsight\scott allen\AspNetCoreFundamentals\OdeToFood\Models\Restaurant.cs
+C:\Users\Ash\Desktop\pluralsight\scott allen\AspNetCoreFundamentals\OdeToFood\Services\Greeter.cs
+C:\Users\Ash\Desktop\pluralsight\scott allen\AspNetCoreFundamentals\OdeToFood\Services\RestaurantData.cs
